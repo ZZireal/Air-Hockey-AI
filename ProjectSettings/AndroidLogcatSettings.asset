@@ -1,0 +1,635 @@
+{
+    "m_SelectedDeviceId": "CB512C1EA7",
+    "m_SelectedPackage": {
+        "deviceId": "CB512C1EA7",
+        "name": "by.gregorovich.unity.airhockey",
+        "processId": 29212,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 29179,
+            "exited": false
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 30082,
+            "exited": false
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 30774,
+            "exited": false
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 31732,
+            "exited": false
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 17447,
+            "exited": false
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 19061,
+            "exited": false
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 20587,
+            "exited": false
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 24188,
+            "exited": false
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 18696,
+            "exited": false
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 20214,
+            "exited": false
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 23626,
+            "exited": false
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 25711,
+            "exited": false
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 28077,
+            "exited": false
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 29602,
+            "exited": false
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 31168,
+            "exited": false
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 4749,
+            "exited": false
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 6945,
+            "exited": false
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 9175,
+            "exited": false
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 10438,
+            "exited": false
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 11827,
+            "exited": false
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 23901,
+            "exited": false
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 26642,
+            "exited": false
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 15758,
+            "exited": false
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 17322,
+            "exited": false
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 19005,
+            "exited": false
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 19426,
+            "exited": false
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 20351,
+            "exited": false
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 9071,
+            "exited": false
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 17102,
+            "exited": false
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 17728,
+            "exited": false
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 28857,
+            "exited": false
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 30081,
+            "exited": false
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 31050,
+            "exited": false
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 1107,
+            "exited": false
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 1432,
+            "exited": false
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 2629,
+            "exited": false
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 5147,
+            "exited": true
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 6407,
+            "exited": false
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 7885,
+            "exited": false
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 8634,
+            "exited": false
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 9713,
+            "exited": false
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 11899,
+            "exited": false
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 12356,
+            "exited": false
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 13413,
+            "exited": false
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 17517,
+            "exited": false
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 18716,
+            "exited": false
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 19491,
+            "exited": false
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 5918,
+            "exited": false
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 9417,
+            "exited": false
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 15357,
+            "exited": false
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 17721,
+            "exited": false
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 18552,
+            "exited": false
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 19732,
+            "exited": false
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 20581,
+            "exited": false
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 21451,
+            "exited": false
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 23972,
+            "exited": false
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 24811,
+            "exited": false
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 26469,
+            "exited": false
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 4840,
+            "exited": false
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 6295,
+            "exited": false
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 11676,
+            "exited": false
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 12168,
+            "exited": false
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 13081,
+            "exited": false
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 13969,
+            "exited": false
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 14478,
+            "exited": false
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 15111,
+            "exited": false
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 425,
+            "exited": false
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 1413,
+            "exited": false
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 31994,
+            "exited": false
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 503,
+            "exited": false
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 16103,
+            "exited": false
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 27690,
+            "exited": false
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 28555,
+            "exited": false
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 32000,
+            "exited": false
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 886,
+            "exited": false
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "by.gregorovich.unity.airhockey",
+            "processId": 19175,
+            "exited": true
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "by.gregorovich.unity.airhockey",
+            "processId": 3806,
+            "exited": false
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "by.gregorovich.unity.airhockey",
+            "processId": 4766,
+            "exited": false
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "by.gregorovich.unity.airhockey",
+            "processId": 5519,
+            "exited": false
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "by.gregorovich.unity.airhockey",
+            "processId": 5971,
+            "exited": false
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "by.gregorovich.unity.airhockey",
+            "processId": 7247,
+            "exited": false
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "by.gregorovich.unity.airhockey",
+            "processId": 8055,
+            "exited": false
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "by.gregorovich.unity.airhockey",
+            "processId": 9393,
+            "exited": false
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "by.gregorovich.unity.airhockey",
+            "processId": 10659,
+            "exited": false
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "by.gregorovich.unity.airhockey",
+            "processId": 11981,
+            "exited": false
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "by.gregorovich.unity.airhockey",
+            "processId": 12826,
+            "exited": false
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "by.gregorovich.unity.airhockey",
+            "processId": 14452,
+            "exited": false
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "by.gregorovich.unity.airhockey",
+            "processId": 23378,
+            "exited": false
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "by.gregorovich.unity.airhockey",
+            "processId": 27246,
+            "exited": false
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "by.gregorovich.unity.airhockey",
+            "processId": 28880,
+            "exited": false
+        },
+        {
+            "deviceId": "CB512C1EA7",
+            "name": "by.gregorovich.unity.airhockey",
+            "processId": 29212,
+            "exited": false
+        },
+        {
+            "deviceId": "4b909c46",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 20880,
+            "exited": false
+        },
+        {
+            "deviceId": "4b909c46",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 11442,
+            "exited": false
+        },
+        {
+            "deviceId": "4b909c46",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 14056,
+            "exited": false
+        },
+        {
+            "deviceId": "BH900P05EL",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 18836,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 255.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 1,
+        "Behavior": 1
+    },
+    "m_Filter": "",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}
